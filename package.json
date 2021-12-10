@@ -1,0 +1,9 @@
+{
+  "name": "@dhrv/prettier-config",
+  "version": "1.0.0",
+  "description": "dhrv's prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:0xdhrv/prettier-config.git",
+  "author": "Dhruv Suthar <hi@dhrv.pw>",
+  "license": "MIT"
+}
