@@ -7,11 +7,11 @@
 **Install**:
 
 ```bash
-$ yarn add --dev @dhrv/prettier-config
+$ yarn add --dev @0xdhrv/prettier-config
 ```
 
 ```bash
-$ npm install --save-dev @dhrv/prettier-config
+$ npm install --save-dev @0xdhrv/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -19,7 +19,7 @@ $ npm install --save-dev @dhrv/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@dhrv/prettier-config"
+  "prettier": "@0xdhrv/prettier-config"
 }
 ```
 
