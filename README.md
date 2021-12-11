@@ -23,6 +23,10 @@ $ npm install --save-dev @dhrv/prettier-config
 }
 ```
 
+## Link
+
+[NPM](https://www.npmjs.com/package/@0xdhrv/prettier-config)
+
 ## License
 
 > MIT
